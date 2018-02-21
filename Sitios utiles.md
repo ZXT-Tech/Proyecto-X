@@ -1,7 +1,6 @@
-#### Sitios utiles
+## Sitios utiles
 
 1. **Un lugar donde se encuentran muchos proyectos open source que se pueden reutilizar**
-
       https://github.com/
 
 2. **Un sitio donde se encuentra de todo un poco y algunos recursos pueden servir ya que son económicos**
